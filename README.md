@@ -10,3 +10,6 @@ of
 [Inception V3 checkpoint (1)](http://download.tensorflow.org/models/ens3_adv_inception_v3_2017_08_18.tar.gz)
 
 [Inception V3 checkpoint (2)](http://download.tensorflow.org/models/ens4_adv_inception_v3_2017_08_18.tar.gz)
+
+## Copyright
+Copyright (c) 2017 Tony-Y.
