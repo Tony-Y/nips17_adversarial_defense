@@ -23,7 +23,7 @@ Licensed under the Apache License, Version 2.0.
 
 ### tensorflow/models
 Copyright 2016 The TensorFlow Authors. All rights reserved.  
-tensorflow/models is licensed under the Apache License 2.0
+Licensed under the Apache License, Version 2.0.
 
 ## Copyright
 Copyright (c) 2017 Tony-Y.
