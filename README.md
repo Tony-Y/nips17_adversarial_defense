@@ -17,5 +17,9 @@ This code is derived from [the sample code](https://github.com/tensorflow/clever
 Copyright (c) 2017 Google Inc., OpenAI and Pennsylvania State University.  
 Licensed under the MIT License.
 
+### Inception Resnet V2
+Copyright 2017 The TensorFlow Authors All Rights Reserved.  
+Licensed under the Apache License, Version 2.0.
+
 ## Copyright
 Copyright (c) 2017 Tony-Y.
