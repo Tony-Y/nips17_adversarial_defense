@@ -15,7 +15,7 @@ This code is derived from [the sample code](https://github.com/tensorflow/clever
 ### CleverHans
 <https://github.com/tensorflow/cleverhans>  
 Copyright (c) 2017 Google Inc., OpenAI and Pennsylvania State University    
-Licensed under the　MIT License.
+Licensed under the MIT License.
 
 ## Copyright
 Copyright (c) 2017 Tony-Y.
